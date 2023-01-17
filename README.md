@@ -12,9 +12,9 @@
 6. Implementation ( for machine coding rounds )
 
 #### 1. Requirement Gathering
-   - For designing real world entities like Pen , Bird , etc, this step is important to understand and collect the actual requirements from the interviewer
-   - Becuase designing real world entities problems will be very abstract
-   - For other type of design problems like `design a parking lot` , `desing book my show`, `desing cab booking system` , etc, the interviews will give a definite set of requirements most of the times. These systems can be categorized as **management systems** .If that's not the case, we need to follow the same requirement gather stpes that we followed for real world entities.
+      -   For designing real world entities like Pen , Bird , etc, this step is important to understand and collect the actual requirements from the interviewer
+      - Becuase designing real world entities problems will be very abstract
+       - For other type of design problems like `design a parking lot` , `desing book my show`, `desing cab booking system` , etc, the interviews will give a definite set of requirements most of the times. These systems can be categorized as **management systems** .If that's not the case, we need to follow the same requirement gather stpes that we followed for real world entities.
 
 
 #### 2. Identifying use cases and draw use case diagrams
